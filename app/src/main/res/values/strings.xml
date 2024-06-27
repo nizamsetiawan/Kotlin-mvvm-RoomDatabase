@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">example</string>
+    <string name="nank">Nank</string>
+    <string name="name">Name</string>
+    <string name="tidak_ada_data">Tidak ada data</string>
+    <string name="catatan">Catatan</string>
+    <string name="selesai">Selesai</string>
+    <string name="nomor_rekening">Nomor rekening</string>
+    <string name="pilih_bank">Pilih Bank</string>
+    <string name="title">Title</string>
+</resources>
